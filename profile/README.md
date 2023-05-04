@@ -1,4 +1,4 @@
-## Hello there 👋, welcome to `credebl`
+## Hello there 👋, welcome to `CREDEBL`
 
 An open-source, open standards-based Decentralised Identity & Verifiable Credentials Management Platform
 
