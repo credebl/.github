@@ -1,6 +1,6 @@
 ## Hello there 👋, welcome to `CREDEBL`
 
-An open-source, open standards-based Decentralised Identity & Verifiable Credentials Management Platform
+An open-source, open standards-based Decentralised Identity & Digital Credentials Platform
 
 
 <!--
