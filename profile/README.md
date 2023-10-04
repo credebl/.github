@@ -1,15 +1,17 @@
-## Hello there 👋, welcome to `CREDEBL`
+## ![CREDEBL Logo](https://github.com/credebl/.github/raw/main/logo.svg)
 
-An open-source, open standards-based Decentralised Identity & Digital Credentials Platform
+## 🙋‍♀️ CREDEBL SSI Platform
 
+* [Core SSI Platform](https://github.com/credebl/platform) - Use the core Self-Sovereign Identity (SSI) & Verifiable Credentials (VCs) features across the digital identity ecosystems.
+* [Studio UI](https://github.com/credebl/studio) - Use the modern web user interface to the platform.
+* [ADEYA Wallet](https://github.com/credebl/adeya-wallet) - Use the SSI edge wallet App / SDK.
+* [Passkeys](https://github.com/credebl/webauthn-server) - Use the WebauthN Server to add support for FIDO Passkeys
 
-<!--
+## 🌈 Roadmap
 
-**Here are some ideas to get you started:**
+* [Public Roadmap](https://github.com/orgs/credebl/projects/5) - Current features we are working on and the near future
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧙 Join the community
+
+* Connect and get the latest updates: <a href="https://discord.gg/w4hnQT7NJG">Discord</a> | <a href="https://twitter.com/credebl" target="_blank">Twitter</a>
+* Get help, request features and report bugs: <a href="https://github.com/orgs/credebl/discussions" target="_blank">GitHub Discussions</a> | <a href="https://docs.credebl.id" target="_blank">docs.credebl.id</a>
