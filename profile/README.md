@@ -1,8 +1,8 @@
 ## ![CREDEBL Logo](https://github.com/credebl/.github/raw/main/logo.svg)
 
-Welcome to CREDEBL, the Open Source Decentralized Identity & Verifiable Credentials Management Platform of the [Linux Foundation Decentralized Trust](https://www.lfdecentralizedtrust.org).
-CREDEBL is used to build the Decentralized National Digital ID for [Royal Government of Bhutan](https://www.bhutanndi.com) & [Papua New Guinea](https://www.biometricupdate.com/202410/papua-new-guinea-advances-digital-id-wallet-and-govt-platform-to-pilot), and [Sovio.id](https://sovio.id) Platform by AYANWORKS.
-You can find more information at our [website](https://credebl.id).
+Welcome to CREDEBL, a Linux Foundation Decentralized Trust project. CREDEBL, an open-source Decentralized Identity & Verifiable Credentials Management Platform, is used to build the Decentralized National Digital ID for [Royal Government of Bhutan](https://www.bhutanndi.com) & [Papua New Guinea](https://www.biometricupdate.com/202410/papua-new-guinea-advances-digital-id-wallet-and-govt-platform-to-pilot), and [Sovio.id](https://sovio.id) Platform by AYANWORKS. You can find more information at our [website](https://credebl.id).
+
+CREDEBL is a Digital Public Good (DPG) approved by the UN-endorsed DPG Alliance. Visit the [CREDEBL DPG Page](https://www.digitalpublicgoods.net/r/credebl) in the DPG registry.
 
 ## 🙋‍♀️ CREDEBL SSI Platform
 
