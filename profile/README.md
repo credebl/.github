@@ -21,3 +21,4 @@ CREDEBL is a Digital Public Good (DPG) approved by the UN-endorsed DPG Alliance.
 
 * Connect and get the latest updates: <a href="https://discord.lfdecentralizedtrust.org/">LFDT Discord #credebl channel</a> | <a href="https://twitter.com/credebl" target="_blank">Twitter</a>
 * Get help, request features and report bugs: <a href="https://github.com/orgs/credebl/discussions" target="_blank">GitHub Discussions</a> | <a href="https://docs.credebl.id" target="_blank">docs.credebl.id</a>
+* <a href="https://zoom-lfx.platform.linuxfoundation.org/meetings/credebl?view=month">Join our community calls</a>
